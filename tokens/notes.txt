@@ -1,0 +1,8 @@
+scad: add projection:
+projection() coinToken();
+
+then:
+openscad -o scad_tokens_v3.svg scad_tokens_v3.scad
+
+Lightburn:
+First cut then engrave on purpose => smoke already extracted and the end...
