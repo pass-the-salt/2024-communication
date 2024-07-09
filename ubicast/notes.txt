@@ -1,0 +1,16 @@
+
+! screen projector 1920x1200
+
+=> il a fallu scaler de l'unif pour 1920x1080
+
+faisable via boîtier EDID?
+
+scaler => pratique aussi pour bypass HDCP des mac. Attention loupiote hdcp? rebooter scaler si ça passe pas ?
+
+
+Post-process uploads:
+* Speaker Name manually added in field
+* Publication date = conf date/hour
+* slug add date: 2024- / 2024-rump-NN-
+* slides detection (0,0,1440,810) then delete bad slides
+* Choose title slide for vignette
